@@ -1,0 +1,49 @@
+{
+  "assemblyStates": {
+    "Studio.Generated.TypedDataTable1": {
+      "namespace": "System.Data",
+      "providerName": "TypedDataTable",
+      "key": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "ReadRangeConnections\u00601_1|DataTable|T1PNoYwrqgwDVLtfmj7L5e0Sq02OEbqHPC8RFhICuUU",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    "Studio.Generated.TypedDataTable2": {
+      "namespace": "System.Data",
+      "providerName": "TypedDataTable",
+      "key": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "ReadRangeConnections\u00601_1|DataTable|CFCjeG0LdKoAFCy49TYgXXFRpslNGUy3r0DBpX2aio8",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    },
+    "Studio.Generated.TypedDataRow3": {
+      "namespace": "System.Data",
+      "providerName": "TypedDataTable",
+      "key": {
+        "name": "Studio.Generated.TypedDataRow3",
+        "hash": "ForEachRowConnections\u00601_1|DataRow|CFCjeG0LdKoAFCy49TYgXXFRpslNGUy3r0DBpX2aio8",
+        "assemblyName": "Studio.Generated.TypedDataRow3"
+      }
+    },
+    "Studio.Generated.TypedDataRow4": {
+      "namespace": "System.Data",
+      "providerName": "TypedDataTable",
+      "key": {
+        "name": "Studio.Generated.TypedDataRow4",
+        "hash": "ForEachRowConnections\u00601_3|DataRow|T1PNoYwrqgwDVLtfmj7L5e0Sq02OEbqHPC8RFhICuUU",
+        "assemblyName": "Studio.Generated.TypedDataRow4"
+      }
+    },
+    "Studio.Generated.TypedDataRow5": {
+      "namespace": "System.Data",
+      "providerName": "TypedDataTable",
+      "key": {
+        "name": "Studio.Generated.TypedDataRow5",
+        "hash": "ForEachRowConnections\u00601_3|DataRow|CFCjeG0LdKoAFCy49TYgXXFRpslNGUy3r0DBpX2aio8",
+        "assemblyName": "Studio.Generated.TypedDataRow5"
+      }
+    }
+  }
+}
