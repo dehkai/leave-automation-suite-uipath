@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v7C0XoW7dkOweadzdrVtUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/leave-submission" CVScreenId="a47e5c70-be3b-4501-a55e-b41c63f60ee6" CvElementArea="568, 999, 163, 88" CvTextArea="603, 1029, 94, 28" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="573, 1003, 155, 80" DesignTimeScaleFactor="2" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&amp;amp;_svg]:pointer-events-none [&amp;amp;_svg]:size-4 [&amp;amp;_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2' aaname='Submit' check:innerText='Submit' /&gt;" Guid="8ee5a2c2-3109-4851-b383-28519e18ecbc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vite + React' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a8c8e0802c3037658d1a2504aab52a05.png" xmlns="">0EIGtotOgHk-aJr-xJLQoEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

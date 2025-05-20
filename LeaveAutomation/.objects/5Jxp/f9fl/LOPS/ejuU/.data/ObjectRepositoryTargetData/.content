@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hIiNFGjb_ka7tXpo3Osdlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/leave-submission" CVScreenId="2a979b75-f315-4699-b42f-db99c94c3980" CvTextArea="685, 407, 344, 30" CvTextArgument="Leave Application Form" CvType="Text" DesignTimeRectangle="687, 398, 342, 48" DesignTimeScaleFactor="2" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='text-base font-medium' aaname='Leave Application Form' check:innerText='Leave Application Form' /&gt;" Guid="69945587-ae34-4f6c-a97b-c0c43b247817" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vite + React' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2a979b75-f315-4699-b42f-db99c94c3980" CvTextArea="685, 407, 344, 30" CvTextArgument="Leave Application Form" CvType="Text" DesignTimeRectangle="525, 382, 3280, 80" FuzzySelectorArgument="&lt;webctrl type='' parentid='root' tag='DIV' class='flex w-full items-center gap-1 px-4 lg:gap-2 lg:px-6' aaname='' check:innerText='Toggle Sidebar&amp;#xA;Leave Application Form&amp;#xA;Toggle theme' /&gt;" Guid="26130fd9-2bae-44f4-b78f-780a1cbf8a98" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b3a8fbc2284f2c6a25ceb9ae12977fc5.png" xmlns="">0E36mbLztMkSCW98zy9FKWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

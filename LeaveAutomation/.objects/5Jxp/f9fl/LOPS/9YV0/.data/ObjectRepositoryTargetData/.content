@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="25Qu8tGcEE2RB3E7BLQy-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/leave-submission" CVScreenId="15eb1f3a-9d05-4ea6-980b-834d77d0e9a7" CvTextArea="3061, 1589, 100, 24" CvTextArgument="Success" CvType="Text" DesignTimeRectangle="3063, 1581, 498, 40" DesignTimeScaleFactor="2" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Success' parentid='root' tag='DIV' type='' class='text-sm font-semibold' check:innerText='Success' /&gt;" Guid="4e087177-dcc8-4799-a09e-dd42456b8d1e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vite + React' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="3013, 1531, 776, 188" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl tag='LI' type='' class='group pointer-events-auto relative flex w-full items-center justify-between space-x-4 overflow-hidden rounded-md p-6 pr-8 shadow-lg transition-all data-[swipe=cancel]:translate-x-0 data-[swipe=end]:translate-x-[var(--radix-toast-swipe-end-x)] data-[swipe=move]:translate-x-[var(--radix-toast-swipe-move-x)] data-[swipe=move]:transition-none data-[state=open]:animate-in data-[state=closed]:animate-out data-[swipe=end]:animate-out data-[state=closed]:fade-out-80 data-[state=closed]:slide-out-to-right-full data-[state=open]:slide-in-from-top-full data-[state=open]:sm:slide-in-from-bottom-full border bg-background text-success' aaname='' check:innerText='Success&amp;#xA;Leave application submitted successfully' /&gt;" Guid="dff873c2-5cac-4dd9-affc-4101b7ca4aa8" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="57bd496af79b96b7576a4d3938d0b132.png" xmlns="">0KMmeUCFy-kW76tCQ8VAkmA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

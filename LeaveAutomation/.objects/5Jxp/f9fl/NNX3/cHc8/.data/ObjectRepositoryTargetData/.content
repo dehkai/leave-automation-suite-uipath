@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zDc3BplcqUy7Z6bdTrgyvw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/login" CVScreenId="ac71eb62-c6d1-45d3-8d1f-f2dc56d92b50" CvElementArea="1581, 923, 670, 85" CvType="InputBox" DesignTimeRectangle="1583, 927, 668, 80" DesignTimeScaleFactor="2" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='email' tag='INPUT' type='email' class='flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-base ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 md:text-sm' placeholder='m@example.com' aaname='Email' /&gt;" Guid="9ddebcd8-4d01-4e86-a090-f5757e2c3f6e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vite + React' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ac71eb62-c6d1-45d3-8d1f-f2dc56d92b50" CvTextArea="1581, 883, 72, 28" CvTextArgument="Email" CvType="Text" DesignTimeRectangle="1583, 883, 668, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70' aaname='Email' check:innerText='Email' /&gt;" Guid="10efb131-dbb4-4d4a-af32-9118fc315813" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1eb71cd0b6b2b455d5cadd6f97f9566e.png" xmlns="">0D_Uc21vKIEyrXnOvppkv_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

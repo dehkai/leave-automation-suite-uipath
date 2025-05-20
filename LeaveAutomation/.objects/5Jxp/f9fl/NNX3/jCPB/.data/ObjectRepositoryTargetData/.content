@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xhVAdXQNEEO3jyXWH9qdGA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard" CVScreenId="a1056154-6e9b-4c1f-a4dc-f071211d9757" CvTextArea="685, 407, 160, 30" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="687, 398, 158, 48" DesignTimeScaleFactor="2" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='text-base font-medium' aaname='Dashboard' check:innerText='Dashboard' /&gt;" Guid="2e5b8667-5c9b-4cdd-8b1f-f185638f7f29" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vite + React' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a1056154-6e9b-4c1f-a4dc-f071211d9757" CvTextArea="685, 407, 160, 30" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="525, 382, 3250, 80" FuzzySelectorArgument="&lt;webctrl type='' parentid='root' tag='DIV' class='flex w-full items-center gap-1 px-4 lg:gap-2 lg:px-6' aaname='' check:innerText='Toggle Sidebar&amp;#xA;Dashboard&amp;#xA;Toggle theme' /&gt;" Guid="dac37820-83aa-4f67-b2d5-9dd4f429adbf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ba76162897bf60431c9d6b5120043993.png" xmlns="">0LXZmdLoYVkqFs0TWtKUR-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

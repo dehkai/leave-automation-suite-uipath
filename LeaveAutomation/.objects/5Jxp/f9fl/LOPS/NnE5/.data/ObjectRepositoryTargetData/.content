@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Udocvj_DnUyzRBrvzL7g9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/leave-submission" CVScreenId="a213b27a-d456-4cd1-a2fb-e7dbb8394cb1" CvTextArea="107, 665, 222, 28" CvTextArgument="Leave Submission" CvType="Text" DesignTimeRectangle="109, 659, 219, 40" DesignTimeScaleFactor="2" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Leave Submission' tag='SPAN' type='' class='' check:innerText='Leave Submission' /&gt;" Guid="db083430-eaf7-4570-af20-bc611cfcf294" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vite + React' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a213b27a-d456-4cd1-a2fb-e7dbb8394cb1" CvElementArea="54, 659, 44, 38" CvType="Icon" DesignTimeRectangle="61, 663, 32, 32" ElementType="Icon" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;a&amp;gt;svg' idx='2' tag='svg' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='lucide lucide-list' tag='svg' aaname='' /&gt;" Guid="30641fd7-6556-4645-9efb-b9b7720d07ff" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAACeSURBVFhH7dRBCoAgEIXhjhF0DaFFtLAQ2gkdKjqwrQ2FgtScqGAK3uLbaMlPyRRlWdkvKcIFbgiiIIiCIEoySIjaC9edrlNW6/Gxs/OjICl7a8ziNU172Jumed97Q3h+Msg9tL3g4tiDnNwvU2qIPv8dZ+cngzghiPKPoNylxhzCHLoSxAlBlH8E5S415hDm0JUgTgiiIIiCIMrnglZZASUcRq5hgQAAAABJRU5ErkJggg==" SearchSteps="Selector, FuzzySelector, Image, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f2dd12e80e2930fb8f1fc41e99f8569f.png" xmlns="">0cfB0Ndajl0GcnP32RnAmlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

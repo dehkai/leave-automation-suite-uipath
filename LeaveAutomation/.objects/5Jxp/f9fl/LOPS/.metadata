@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Vite + React(1)",
+  "Type": "Screen",
+  "Id": "LOPSyj4RY0G4kZOA17Ulxw",
+  "Reference": "cEaX0DsHdEeX_fAUX39Akw/LOPSyj4RY0G4kZOA17Ulxw",
+  "ParentRef": "cEaX0DsHdEeX_fAUX39Akw/f9fllgvoFU6abBs5tKctXg",
+  "Created": "2025-05-05T13:55:45.3516344Z",
+  "Updated": "2025-05-05T13:55:45.3516344Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

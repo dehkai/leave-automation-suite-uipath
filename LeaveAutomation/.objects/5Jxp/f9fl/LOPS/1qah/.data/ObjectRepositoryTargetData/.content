@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WU-ZYd1ug0e2YeZqoIm2FQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/dashboard" CVScreenId="e4a7872d-68ba-4c63-8e31-1bf8cf4ed93a" CvTextArea="107, 665, 222, 28" CvTextArgument="Leave Submission" CvType="Text" DesignTimeRectangle="109, 659, 219, 40" DesignTimeScaleFactor="2" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Leave Submission' tag='SPAN' type='' class='' check:innerText='Leave Submission' /&gt;" Guid="ba7a4188-ed22-457a-9ab7-5950b9356bed" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vite + React' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e4a7872d-68ba-4c63-8e31-1bf8cf4ed93a" CvElementArea="54, 659, 44, 38" CvType="Icon" DesignTimeRectangle="61, 663, 32, 32" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl type='' class='lucide lucide-list' tag='svg' aaname='' /&gt;" Guid="f0fdc41e-dd59-4ef4-864b-3efd024559c6" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAACeSURBVFhH7dRBCoAgEIXhjhF0DaFFtLAQ2gkdKjqwrQ2FgtScqGAK3uLbaMlPyRRlWdkvKcIFbgiiIIiCIEoySIjaC9edrlNW6/Gxs/OjICl7a8ziNU172Jumed97Q3h+Msg9tL3g4tiDnNwvU2qIPv8dZ+cngzghiPKPoNylxhzCHLoSxAlBlH8E5S415hDm0JUgTgiiIIiCIMrnglZZASUcRq5hgQAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f2dd12e80e2930fb8f1fc41e99f8569f.png" xmlns="">0u7o2d-aTDEe2te_6Kq1GFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
